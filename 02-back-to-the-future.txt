@@ -1,6 +1,9 @@
-Did you know you can alter the date of a commit? Great Scott! ⚡️
+$ GIT_COMMITTER_DATE="Oct 21 2015 16:29:00" git commit --amend --no-edit --date "Oct 21 2025 16:29:00"
 
-GIT_COMMITTER_DATE="Oct 21 2015 16:29:00" git commit --amend --no-edit --date "Oct 21 2025 16:29:00"
+[main b6be370] Great Scott!
+ Date: Tue Oct 21 16:29:00 2025 -0700
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 flux-capacitor.go
                                                                                                   .    .     
                                                                                              .      *     
                                                                                    _     
