@@ -1,3 +1,0 @@
-$ git log --reverse --oneline | head -n 1 
-
-e83c516331 Initial revision of "git", the information manager from hell
